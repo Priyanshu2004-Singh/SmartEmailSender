@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/layout_nav_header_main.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/menu_top_app_bar_menu.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/menu/top_app_bar_menu.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/anim_fade_out.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/anim_fade_in.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/drawable_ic_empty_state.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/drawable/ic_empty_state.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/anim_scale_down.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/anim/scale_down.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/drawable_bg_header_gradient.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/drawable/bg_header_gradient.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/drawable_ic_about.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/drawable/ic_about.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/drawable_ic_history.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/drawable/ic_history.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/layout_fragment_history.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/layout/fragment_history.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/drawable_ic_send.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/drawable/ic_send.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/layout_activity_splash.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/drawable_bg_logo_circle.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/drawable/bg_logo_circle.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/layout_item_history.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/layout/item_history.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.smartmailsender.app-debug-34:/layout_fragment_compose.xml.flat",
+        "source": "com.example.smartmailsender.app-main-36:/layout/fragment_compose.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/drawable_bg_screen_gradient.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/drawable/bg_screen_gradient.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/layout_fragment_about.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/layout_layout_top_app_bar.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/layout/layout_top_app_bar.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/layout_item_draft.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/layout/item_draft.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/raw_splash_animation.json.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/raw/splash_animation.json"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/layout_activity_main.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/drawable_ic_compose.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/drawable/ic_compose.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/layout_activity_history.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/layout/activity_history.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/drawable_ic_drafts.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/drawable/ic_drafts.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/layout_activity_settings.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/anim_slide_out_left.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/menu_drawer_menu.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/menu/drawer_menu.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/drawable_ic_signature.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/drawable/ic_signature.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/drawable_ic_mail_logo.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/drawable/ic_mail_logo.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/drawable_ic_attach.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/drawable/ic_attach.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/layout_fragment_settings.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/menu_toolbar_menu.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/menu/toolbar_menu.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/drawable_bg_splash_gradient.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/drawable/bg_splash_gradient.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/anim_scale_up.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/anim/scale_up.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/layout_fragment_compose.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/layout/fragment_compose.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/drawable_ic_settings.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/drawable_ic_menu.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/anim_slide_in_right.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/drawable_ic_template.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/drawable/ic_template.xml"
+    },
+    {
+        "merged": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-debug-34:/layout_fragment_drafts.xml.flat",
+        "source": "/Users/priyanshusingh/.gradle/daemon/9.0-milestone-1/com.example.smartmailsender.app-main-36:/layout/fragment_drafts.xml"
+    }
+]
