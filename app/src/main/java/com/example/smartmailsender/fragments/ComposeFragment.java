@@ -107,6 +107,12 @@ public class ComposeFragment extends Fragment {
     }
 
     @Override
+    public void onPause() {
+        super.onPause();
+        autosaveIfNeeded();
+    }
+
+    @Override
     public void onDestroyView() {
         super.onDestroyView();
         binding = null;
@@ -338,6 +344,24 @@ public class ComposeFragment extends Fragment {
         }
         loadDashboardStats();
         showMessage(getString(R.string.draft_saved_message));
+    }
+
+    private void autosaveIfNeeded() {
+        // silently save draft when user navigates away if there is content
+        String recipient = getRecipientText();
+        String subject = getSubjectText();
+        String rawMessage = getRawMessageText();
+        if (TextUtils.isEmpty(recipient) && TextUtils.isEmpty(subject) && TextUtils.isEmpty(rawMessage)) {
+            return;
+        }
+
+        EmailModel draft = new EmailModel(0L, EmailValidator.normalizeEmailList(recipient), subject, rawMessage, dbHelper.getCurrentDateTime(), DBHelper.STATUS_DRAFT);
+        if (editingDraftId > 0) {
+            dbHelper.updateDraft(editingDraftId, draft);
+        } else {
+            editingDraftId = dbHelper.insertDraft(draft);
+        }
+        loadDashboardStats();
     }
 
     private boolean validateInputs() {

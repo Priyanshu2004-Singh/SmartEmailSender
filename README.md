@@ -20,6 +20,8 @@ Or open the project in Android Studio and run the `app` configuration.
 
 ## Notes
 - The `fragment_compose.xml` layout was updated. See `app/src/main/res/layout/fragment_compose.xml` for details.
+- The `fragment_compose.xml` layout was updated. See `app/src/main/res/layout/fragment_compose.xml` for details.
+- Added autosave for drafts: the compose screen now silently saves a draft when you navigate away.
 - This repository was initialized and the changes pushed to `origin/main`.
 
 ## Contributing
